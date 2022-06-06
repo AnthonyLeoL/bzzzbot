@@ -1,0 +1,13 @@
+{
+    "name": "bzzzbot",
+    "version": "1.0.0",
+    
+    "description": "gameshow assistant",
+    
+    "main": "bot.js",
+    
+    "author": "Anthony Lisa",
+    
+    "dependencies": {}
+    
+    }
